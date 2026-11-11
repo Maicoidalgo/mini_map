@@ -2,7 +2,7 @@
 
 Um mini-mapa leve e elegante para **DayZ**, direto no HUD do jogador.
 
-![Divinus Mini-Map](Divinus_MiniMap_steam_v1.0.png)
+![Divinus Mini-Map](Mini-Mapa Divinusl.png)
 
 ---
 
